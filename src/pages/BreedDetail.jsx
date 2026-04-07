@@ -1,7 +1,4 @@
 
-
-
-// export default function BreedDetail() {
 //   const { breed } = useParams();
 //   const [images, setImages] = useState([]);
 
