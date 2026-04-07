@@ -1,6 +1,5 @@
 
 
-// import { Card, CardBody, Image } from "@heroui/react";
 
 // export default function BreedDetail() {
 //   const { breed } = useParams();
