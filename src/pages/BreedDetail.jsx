@@ -1,7 +1,4 @@
 
-//   const { breed } = useParams();
-//   useEffect(() => {
-//     async function fetchImages() {
 //       const data = await getBreedImages(breed);
 //       setImages(data);
 //     }
