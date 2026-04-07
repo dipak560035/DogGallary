@@ -1,6 +1,5 @@
 
-// import { useParams } from "react-router-dom";
-// import { getBreedImages } from "../api/api";
+
 // import { Card, CardBody, Image } from "@heroui/react";
 
 // export default function BreedDetail() {
