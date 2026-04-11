@@ -15,9 +15,7 @@
 //               <Image src={img} alt={breed} className="w-full h-40 object-cover" />
 //             </CardBody>
 //           </
-//       
-
-
+//
 
 
 
