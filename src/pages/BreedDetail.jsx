@@ -13,7 +13,7 @@
 //           <Card key={i} className="hover:shadow-lg">
 //             <CardBody className="p-0">
 //               <Image src={img} alt={breed} className="w-full h-40 object-cover" />
-//             <
+//         
 // 
 
 
