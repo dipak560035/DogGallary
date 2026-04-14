@@ -12,7 +12,7 @@
 //         {images.map((img, i) => (
 //           <Card key={i} className="hover:shadow-lg">
 //             <CardBody className="p-0">
-//               <Image src={img} alt={breed} className="w-full h-40 object-cover" /
+//               <Image src={img} alt={breed} className="w-full h-40 object-cove
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import { getBreedImages } from "../api/api";
