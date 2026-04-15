@@ -7,7 +7,7 @@
 
 //   useEffect(() => {
 //     async function fetchImage() {
-//       const img = await getRandomDogImage();
+//       const img = await getRandomDo
 //       setImage(img);
 //     }
 //     fetchImage();
