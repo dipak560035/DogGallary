@@ -6,7 +6,7 @@
 //   const [image, setImage] = useState(null);
 
 //   useEffect(() => {
-//     async function 
+//     as
 //       const img = await getRandomDo
 //       setImage(img);
 //     }
