@@ -8,7 +8,7 @@
 //   useEffect(() => {
 //     as
 //       const img = await getRand
-//   
+/
 //     }
 //     fetchImage();
 // 
