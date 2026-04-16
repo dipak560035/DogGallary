@@ -9,7 +9,7 @@
 //    
 //       const img = await getRand
 /
-//     }
+//   
 //     fetchImage();
 // 
 /
