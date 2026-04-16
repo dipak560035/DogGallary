@@ -6,7 +6,7 @@
 //   const [image, setImage] = useState(null);
 
 //   useEffect(() =
-//     as
+//    
 //       const img = await getRand
 /
 //     }
