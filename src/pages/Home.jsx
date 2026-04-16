@@ -5,7 +5,7 @@
 // export defa
 //   const [image, setImage] = useState(null);
 
-//   useEffect(() => {
+//   useEffect(() =
 //     as
 //       const img = await getRand
 /
