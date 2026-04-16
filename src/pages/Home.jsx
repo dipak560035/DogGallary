@@ -7,7 +7,7 @@
 
 //   useEffect(() => {
 //     as
-//       const img = await getRandomDo
+//       const img = await getRand
 //   
 //     }
 //     fetchImage();
