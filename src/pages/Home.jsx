@@ -9,7 +9,7 @@
 //    
 //       const img = await get
 /
-//   
+// 
 //     fetchImage();
 //
 //     <div className="flex flex-col items-center">
