@@ -7,7 +7,7 @@
 
 //   useEffect(
 //    
-//       const img = await getRa
+//       const img = await get
 /
 //   
 //     fetchImage();
