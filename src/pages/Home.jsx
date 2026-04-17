@@ -8,7 +8,6 @@
 //   useEffect(
 //    
 //       const img = await get
-/
 // 
 //     fetchImage();
 //
