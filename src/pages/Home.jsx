@@ -7,7 +7,7 @@
 
 //   useEffect(
 //    
-//       const img = await getRand
+//       const img = await getRa
 /
 //   
 //     fetchImage();
