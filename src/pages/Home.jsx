@@ -5,7 +5,7 @@
 // export defa
 //   const [image, setImage] = useState(null)
 
-//   useEffe
+//   useEff
 //   
 //       const img = a
 //     fetchImage()
