@@ -7,7 +7,7 @@
 
 //   useEffec
 //    
-//       const img = aw
+//       const img = a
 //     fetchImage()
 //
 //     <div className="flex flex-col items-center">
