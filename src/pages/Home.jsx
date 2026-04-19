@@ -6,7 +6,7 @@
 //   const [image, setImage] = useState(null)
 
 //   useEff
-//   
+// 
 //       const img = a
 //     fetchImage()
 /
