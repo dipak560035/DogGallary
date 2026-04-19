@@ -9,7 +9,7 @@
 //   
 //       const img = a
 //     fetchImage()
-//
+/
 //     <div className="flex flex-col items-center">
 //       <h1 className="text-3xl font-bold mb-8 text-center">🐶 Random Dog</h1>
 //       {image ? (
