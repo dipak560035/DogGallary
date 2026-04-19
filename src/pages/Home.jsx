@@ -13,7 +13,7 @@
 //     <div className="flex flex-col items-center">
 //       <h1 className="text-3xl font-bold mb-8 text-center">🐶 Random Dog</h1>
 //       {image ? (
-//         <img
+//         <i
 //           src={image}
 //           alt="Random Dog"
 //           className="w-96 h-96 object-cover rounded-lg shadow-lg"
