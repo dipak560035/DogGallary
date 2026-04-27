@@ -3,7 +3,6 @@
 // import { getRandomDogImage } from "../api/api";
 // export 
 //   const [image, setImage] = useState(nu
-
 //   us
 /
 //       const img = a
