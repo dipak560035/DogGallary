@@ -4,7 +4,7 @@
 // export 
 //   const [image, setImage] = useState(nul
 
-//   use
+//   us
 /
 //       const img = a
 //     fetc
