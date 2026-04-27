@@ -2,7 +2,7 @@
 // import { useEffect, useState } from "react";
 // import { getRandomDogImage } from "../api/api";
 // export 
-//   const [image, setImage] = useState(nul
+//   const [image, setImage] = useState(nu
 
 //   us
 /
